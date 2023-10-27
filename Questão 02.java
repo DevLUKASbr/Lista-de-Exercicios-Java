@@ -1,12 +1,9 @@
-package ex2.java;
+package Questão02.java;
 
 import javax.swing.JOptionPane;
 
-public class ex2 {
+public class Questão02 {
     public static void main(String[] args) {
-        
-        /* Fazer um programa que imprima a média aritmética dos números 8,9 e 7. A média dos
-        números 4, 5 e 6. A soma das duas médias. A média das médias. */
 
         float media1, media2, somaMedia;
 
