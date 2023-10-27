@@ -1,8 +1,8 @@
-package ex3.java;
+package Questão03.java;
 
 import javax.swing.JOptionPane;
 
-public class ex3 {
+public class Questão03 {
     public static void main(String[] args) {
         /* 3. Informar um saldo e imprimir o saldo com reajuste de 1%. */
 
