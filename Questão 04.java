@@ -1,6 +1,5 @@
 package Questão04.java;
 
-
 import javax.swing.JOptionPane;
 
 public class Questão04 {
