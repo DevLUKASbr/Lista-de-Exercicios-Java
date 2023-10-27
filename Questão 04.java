@@ -1,18 +1,10 @@
-package ex4.java;
+package Questão04.java;
 
 
 import javax.swing.JOptionPane;
 
-public class ex04 {
+public class Questão04 {
     public static void main(String[] args) {
-        
-
-        /* Escrever um algoritmo que lê:
-        - a porcentagem do IPI a ser acrescido no valor das peças
-        - o código da peça 1, valor unitário da peça 1, quantidade de peças 1
-        - o código da peça 2, valor unitário da peça 2, quantidade de peças 2
-        O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
-        Fórmula : (valor1*quant1 + valor2*quant2)*(IPI/100 + 1) */
 
         String msg = "Entre com o código da peça:"; 
         String msgIPI = "Entre com o IPI:"; 
