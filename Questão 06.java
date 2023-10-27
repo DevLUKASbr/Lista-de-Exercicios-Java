@@ -1,8 +1,8 @@
-package ex6.java;
+package Questão06.java;
 
 import javax.swing.JOptionPane;
 
-public class ex06 {
+public class Questão06 {
 
     public static void main(String[] args) {
         
